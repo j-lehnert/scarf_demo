@@ -1,0 +1,12 @@
+=== Benchmark SCARF_optimiert ===
+[SCARF_optimiert] getrusage: Total time: 591.00 µs, Avg per block: 0.58 µs
+[SCARF_optimiert] RDTSC: Avg per block: 1748.67 cycles
+=== Benchmark SCARF_optimiert o1 ===
+[SCARF_optimiert] getrusage: Total time: 257.00 µs, Avg per block: 0.25 µs
+[SCARF_optimiert] RDTSC: Avg per block: 689.15 cycles
+=== Benchmark SCARF_optimiert O2===
+[SCARF_optimiert] getrusage: Total time: 181.00 µs, Avg per block: 0.18 µs
+[SCARF_optimiert] RDTSC: Avg per block: 539.20 cycles
+=== Benchmark SCARF_optimiert O3===
+[SCARF_optimiert] getrusage: Total time: 106.00 µs, Avg per block: 0.10 µs
+[SCARF_optimiert] RDTSC: Avg per block: 314.76 cycles
